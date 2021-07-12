@@ -16,4 +16,15 @@ Unsupervised learning, on the other hand, doesn't involve any target data. It is
 
 2) SciKit learn is focused more on machine learning and data modeling as opposed to data visualization and data analysis. 
 
+Day 4 - 7/9/21
+
+In the midst of the current pandemic, oftentimes, we need to quickly and efficiently diagnose someone with COVID-19 so that we can provide proper isolation 
+and prevent the spread of the virus to other healthy individuals. The following dataset offers CT and X-Ray images of both COVID and non-COVID patients. 
+
+https://data.mendeley.com/datasets/8h65ywd2jr/3
+
+Using suprevised machine learning, we can train a program via a classification algorithm so that it can quickly and accurately distinguish between patients with 
+COVID-19 and those without COVID-19. This will not provide clinicians with a quick means of evaluating someone for COVID, but can also be used as a screening tool
+to help alleviate some of the manual labor in analysing medical images. 
+
 
