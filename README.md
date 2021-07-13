@@ -11,10 +11,10 @@ the common deep learning libraries available today, such as TensorFlow.
 
 Day 3 - 7/8/21
 
-1) Supervised learning means we are giving the program a known dataset and then the program is trained based with new data and matched to the known target data set. 
+1. Supervised learning means we are giving the program a known dataset and then the program is trained based with new data and matched to the known target data set. 
 Unsupervised learning, on the other hand, doesn't involve any target data. It is simply given some random data and it must then go through and find the pattens/relationships.
 
-2) SciKit learn is focused more on machine learning and data modeling as opposed to data visualization and data analysis. 
+2. SciKit learn is focused more on machine learning and data modeling as opposed to data visualization and data analysis. 
 
 Day 4 - 7/9/21
 
@@ -27,4 +27,7 @@ Using suprevised machine learning, we can train a program via a classification a
 COVID-19 and those without COVID-19. This will not provide clinicians with a quick means of evaluating someone for COVID, but can also be used as a screening tool
 to help alleviate some of the manual labor in analysing medical images. 
 
+Day 7 - 7/12
 
+1. Tensors are arrays that stores data in multidimensional space. They are used to store and organize data in machine learning. 
+2. 
