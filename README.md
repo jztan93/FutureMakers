@@ -30,4 +30,4 @@ to help alleviate some of the manual labor in analysing medical images.
 Day 7 - 7/12
 
 1. Tensors are arrays that stores data in multidimensional space. They are used to store and organize data in machine learning. 
-2. 
+2. Unfortunately, due to compatibility issues, I was unable to run the TensorFlow part of the tutorial. 
