@@ -43,3 +43,7 @@ Day 10 - 7/15
 Day 11 - 7/16
 
 A fully connected neural network, as it's name implies, is connected to every neuron in the previous layer and each of those connections has it's own weight. A covolution neural network, on the other hand, gets smaller and smaller through a convolution layer and each layer is only connected to a few neurons in the previous layer. This makes convolution neural networks more efficient and is best used for analyzing images. 
+
+Day 15 - 7/20
+
+A major advantage of using the Rectified Linear Activation function (ReLU) is the fact that is avoids issues caused by the vanishing gradient problem. A sigmoid function is most sensitive to values around 0.5 and a tanh function is most sensitive to values around 0. This means that for very large and very small values, due to this decreased sensitivity, it becomes challenging for the model to learn from itself through backpropogation and improve its performance in subsequent epochs. This vanishing gradient issue is resolved through the use of ReLU functions. In addition, a ReLU function is much less computatationally intensive. With all these considerations, a major use case would be in the hidden layers of a neural network, where values are being passed from one layer to another layer. 
